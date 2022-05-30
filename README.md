@@ -1,5 +1,10 @@
 # launch-screen-generator-mobile-applications-ios-and-android-with-python
 
+## revisando el codigo podemos
+
+* añadir multiples imagenes
+* añadir multiples textos en diferentes ubicaciones
+
 ## vertical
 
 ![image](https://user-images.githubusercontent.com/57574910/170916832-f504edc7-59c3-4056-93ed-fa74b0271f6f.png)
